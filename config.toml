@@ -1,0 +1,4 @@
+baseURL = "https://ciscox83.github.io/"
+languageCode = "en-us"
+title = "Christian Sisti's Blog"
+theme = "ananke"
