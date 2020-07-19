@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ciscox83/ciscox83.github.io.git
+	branch = master
